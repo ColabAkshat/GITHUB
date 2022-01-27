@@ -2,10 +2,11 @@
 
 I am a Web and Python Developer continously exploring new technologies. Currently I am pursuing B.Tech in Information Technology from Indian Institute Of Engineering Science And Technology, Shibpur.
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on exciting projects
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to write poetries and rap.
+- 📫 Reach me at **akshu2353@gmail.com**
 
 ### Connect with me:
 
