@@ -1,6 +1,6 @@
 ### Hi there, I'm Akshat Agarwal 👋
 
-## I am a Web Developer and Python Developer continously exploring new technologies. Currently I am pursuing B.Tech in Information Technology from Indian Institute Of Engineering Science And Technology, Shibpur.
+I am a Web and Python Developer continously exploring new technologies. Currently I am pursuing B.Tech in Information Technology from Indian Institute Of Engineering Science And Technology, Shibpur.
 
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on exciting projects
