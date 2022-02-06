@@ -19,7 +19,7 @@ I am a Web and Python Developer continously exploring new technologies. Currentl
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ColabAkshat&show_icons=true&locale=en&theme=midnight-purple" alt="iamezio" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=impAkshat&show_icons=true&locale=en&theme=midnight-purple" alt="iamezio" /></p>
 
 [twitter]: https://twitter.com/AkshatA82755038
 [youtube]: https://www.youtube.com/channel/UC8ueOAfeqzmuZLOPu4vp-uQ
