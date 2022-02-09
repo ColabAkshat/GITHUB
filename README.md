@@ -8,6 +8,8 @@ I am a Web and Python Developer continously exploring new technologies. Currentl
 - ⚡ Fun fact: I love to write poetries and rap.
 - 📫 Reach me at **akshu2353@gmail.com**
 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
